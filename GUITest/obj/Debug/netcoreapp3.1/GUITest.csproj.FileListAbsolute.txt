@@ -1,0 +1,16 @@
+C:\Users\Soqui\source\repos\GUITest\GUITest\bin\Debug\netcoreapp3.1\GUITest.exe
+C:\Users\Soqui\source\repos\GUITest\GUITest\bin\Debug\netcoreapp3.1\GUITest.deps.json
+C:\Users\Soqui\source\repos\GUITest\GUITest\bin\Debug\netcoreapp3.1\GUITest.runtimeconfig.json
+C:\Users\Soqui\source\repos\GUITest\GUITest\bin\Debug\netcoreapp3.1\GUITest.runtimeconfig.dev.json
+C:\Users\Soqui\source\repos\GUITest\GUITest\bin\Debug\netcoreapp3.1\GUITest.dll
+C:\Users\Soqui\source\repos\GUITest\GUITest\bin\Debug\netcoreapp3.1\GUITest.pdb
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.csproj.AssemblyReference.cache
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.Form1.resources
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.csproj.GenerateResource.cache
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.AssemblyInfoInputs.cache
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.AssemblyInfo.cs
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.csproj.CoreCompileInputs.cache
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.dll
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.pdb
+C:\Users\Soqui\source\repos\GUITest\GUITest\obj\Debug\netcoreapp3.1\GUITest.genruntimeconfig.cache
